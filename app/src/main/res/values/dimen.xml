@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">20dp</dimen>
+    <dimen name="timeTextSize">20dp</dimen>
+
+
+</resources>
